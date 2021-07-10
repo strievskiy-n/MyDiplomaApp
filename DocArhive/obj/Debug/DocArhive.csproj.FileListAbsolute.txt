@@ -1,0 +1,74 @@
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\DocArhive.exe.config
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\DocArhive.exe
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\DocArhive.pdb
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.csprojAssemblyReference.cache
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.Properties.Resources.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.csproj.GenerateResource.cache
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.csproj.CoreCompileInputs.cache
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.exe
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.pdb
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\EntityFramework.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\System.Data.SQLite.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\EntityFramework.xml
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\bin\Debug\System.Data.SQLite.xml
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.csproj.CopyComplete
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.Login.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.CaseForm.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.AddDepart.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.DepartmentForm.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.MainForm.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.AddCase.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.DocForm.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.AddDoc.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.DocList.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.Settings.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.AddUser.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.ChangeUser.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.DocToDel.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.DepSettings.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.CaseSettings.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.csproj.ResolveComReference.cache
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.Search.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.Filters.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\DocArhive\DocArhive\obj\Debug\DocArhive.FileList.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\DocArhive.exe.config
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\DocArhive.exe
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\DocArhive.pdb
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\EntityFramework.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\System.Data.SQLite.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\EntityFramework.xml
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\bin\Debug\System.Data.SQLite.xml
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.csprojAssemblyReference.cache
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.csproj.ResolveComReference.cache
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.AddCase.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.AddDepart.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.AddDoc.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.AddUser.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.CaseForm.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.CaseSettings.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.ChangeUser.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.DepartmentForm.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.DepSettings.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.DocForm.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.DocList.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.DocToDel.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.FileList.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.Filters.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.MainForm.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.Login.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.Properties.Resources.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.Search.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.Settings.resources
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.csproj.GenerateResource.cache
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.csproj.CoreCompileInputs.cache
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.csproj.CopyComplete
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.exe
+C:\Users\Strievskiy-N\Documents\4 курс\Диплом\App\Новая папка\DocArhive\obj\Debug\DocArhive.pdb
